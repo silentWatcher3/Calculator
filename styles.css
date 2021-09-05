@@ -29,6 +29,7 @@ body {
   border: 1px solid rgb(198, 233, 103);
   outline: none;
   background-color: rgba(19, 73, 2, 0.75);
+  border-radius: 25px;
 }
 
 .calculator-grid > button:hover {
@@ -49,6 +50,7 @@ body {
   padding: 10px;
   word-wrap: break-word;
   word-break: break-all;
+  border-radius: 35px;
 }
 
 .output .previous-operand {
